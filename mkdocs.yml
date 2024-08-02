@@ -3,3 +3,19 @@ site_url: https://bclz19.github.io/zju-robotics/
 site_author: bclz19
 theme:
   name: material #主题
+  palette:
+    primary: yellow #顶部颜色
+
+  palette: 
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
