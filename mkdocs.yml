@@ -9,13 +9,13 @@ theme:
   palette: 
 
     # Palette toggle for light mode
-    - scheme: default
+    - scheme: slate
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
 
     # Palette toggle for dark mode
-    - scheme: slate
+    - scheme: default
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -33,3 +33,35 @@ theme:
       #- navigation.indexes   #启用节索引页后，可以将文档直接附加到节
       - search.share   #搜索分享按钮
       - content.tabs.link
+  markdown_extensions:
+  - pymdownx.tabbed:
+      alternate_style: true
+    
+nav:
+  - 首页: 
+    - 热烈欢迎24级新同学: index.md
+    - 一点严肃的事情: seriousthing.md
+  - 所以什么是机器人工程:
+    - 所以什么是机器人工程: about_robotics.md
+  - 选课指导:
+    - 培养方案: select_course/Academic_Program/Academic_Program.md
+    - 通识课程: select_course/General/general_index.md
+    - 数理基础课: 
+      - select_course/math_phy/index.md
+      - 线性代数 (甲): select_course/math_phy/linear_algebra/index.md
+      - 微积分（甲）Ⅰ: select_course/math_phy/calculus1/index.md
+      - 微积分（甲）Ⅱ: select_course/math_phy/calculus2/index.md
+      - 大学物理 （甲）Ⅰ: select_course/math_phy/physics1/index.md
+      - 大学物理实验: select_course/math_phy/physics_experiment/index.md
+      - 大学物理 （甲）Ⅱ: select_course/math_phy/physics2/index.md
+      - 测试版面: select_course/math_phy/text.md
+
+    - 思政课: select_course/political/political_index.md
+  - 疯狂的机器人:
+    - 疯狂的机器人: "crazy_robotics.md"
+  - 学长说:
+    - senior_speech/index.md
+  - 畅所欲言:
+    - 畅所欲言: "chats.md"
+  - 联系我们: connect_us.md
+  - 卷尾语：
