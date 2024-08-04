@@ -1,6 +1,9 @@
 site_name: zju-robotics
 site_url: https://zju-robotics.cn
 site_author: bclz19
+
+repo_name: zju-robotics
+repo_url: https://github.com/bclz19/zju-robotics/
 # theme:
 #   name: material #主题
 #   language: zh
