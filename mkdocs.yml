@@ -59,7 +59,7 @@ theme:
   - toc.follow
   - navigation.top
   - navigation.footer
-  - navigation.expand
+  # - navigation.expand
 
   - search.highlight
   - search.share
@@ -93,6 +93,7 @@ nav:
   - 所以什么是机器人工程:
     - 所以什么是机器人工程: about_robotics.md
   - 选课指导:
+    - select_course/index.md
     - 培养方案: select_course/Academic_Program/Academic_Program.md
     - 通识课程: select_course/General/general_index.md
     - 数理基础课: 
@@ -105,7 +106,36 @@ nav:
       - 大学物理 （甲）Ⅱ: select_course/math_phy/physics2/index.md
       - 测试版面: select_course/math_phy/text.md
 
-    - 思政课: select_course/political/political_index.md
+    - 思政课: 
+      - select_course/political/political_index.md
+      - 形势与政策 Ⅰ: select_course/political/situation_policy1.md
+      - 思想道德与法治: select_course/political/morality_law.md
+      - 中国近现代史纲要: select_course/political/modern_history.md
+      - 马克思主义基本原理: select_course/political/marxism_basic.md
+      - 毛泽东思想和中国特色社会主义理论体系概论: select_course/political/mao_thought.md
+      - 习近平新时代中国特色社会主义思想概论: select_course/political/xi_thought.md
+      - 形势与政策 Ⅱ: select_course/political/situation_policy2.md
+      - 军事理论: select_course/political/military_theory.md
+
+    - 专业基础课: 
+      - select_course/major_basic/major_basic_index.md
+      - 机械制图及CAD基础: select_course/political/situation_policy1.md
+      - 常微分方程: select_course/political/morality_law.md
+      - 复变函数与积分变换: select_course/political/modern_history.md
+      - 理论力学（乙）: select_course/political/marxism_basic.md
+      - 电路与模拟电子技术: select_course/political/mao_thought.md
+      - 电路与模拟电子技术实验: select_course/political/xi_thought.md
+      - 概率论与数理统计: select_course/political/situation_policy2.md
+    
+    - 专业必修课: 
+      - select_course/major_mandatory/major_mandatory_index.md
+      - 机械制图及CAD基础: select_course/political/situation_policy1.md
+      - 常微分方程: select_course/political/morality_law.md
+      - 复变函数与积分变换: select_course/political/modern_history.md
+      - 理论力学（乙）: select_course/political/marxism_basic.md
+      - 电路与模拟电子技术: select_course/political/mao_thought.md
+      - 电路与模拟电子技术实验: select_course/political/xi_thought.md
+      - 概率论与数理统计: select_course/political/situation_policy2.md
   - 疯狂的机器人:
     - 疯狂的机器人: "crazy_robotics.md"
   - 学长说:
@@ -113,4 +143,4 @@ nav:
   - 畅所欲言:
     - 畅所欲言: "chats.md"
   - 联系我们: connect_us.md
-  - 卷尾语：
+  - 卷尾语: end_passage.md
