@@ -1,5 +1,5 @@
 site_name: zju-robotics
-site_url: https://bclz19.github.io/zju-robotics/
+site_url: https://zju-robotics.cn
 site_author: bclz19
 # theme:
 #   name: material #主题
@@ -77,14 +77,12 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - attr_list
+  - md_in_html
 
-
-
-
-
-
-
-
+plugins:
+  - glightbox
+  
 nav:
   - 首页: 
     - 热烈欢迎24级新同学: index.md
