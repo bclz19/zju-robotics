@@ -90,8 +90,8 @@ nav:
   - 首页: 
     - 热烈欢迎24级新同学: index.md
     - 一点严肃的事情: seriousthing.md
-  - 所以什么是机器人工程:
-    - 所以什么是机器人工程: about_robotics.md
+  # - 所以什么是机器人工程:
+  #   - 所以什么是机器人工程: about_robotics.md
   - 选课指导:
     - select_course/index.md
     - 培养方案: select_course/Academic_Program/Academic_Program.md
@@ -136,10 +136,18 @@ nav:
       - 电路与模拟电子技术: select_course/political/mao_thought.md
       - 电路与模拟电子技术实验: select_course/political/xi_thought.md
       - 概率论与数理统计: select_course/political/situation_policy2.md
+
+    - 短学期课程:
+      - select_course/short_term/short_term_index.md
+      - ROS与机器人仿真软件: select_course/short_term/ros.md
+      - 专业认知: select_course/short_term/Major_Cognition.md
+      - 机器人基础实践: select_course/short_term/Basic_Practice_Of_Robot.md
   - 疯狂的机器人:
     - 疯狂的机器人: "crazy_robotics.md"
   - 学长说:
     - senior_speech/index.md
+    - 所以机器人工程到底是什么: senior_speech/whats_robotics.md
+    - 科研方向/所需基础: research_guidance.md
   - 畅所欲言:
     - 畅所欲言: "chats.md"
   - 联系我们: connect_us.md
