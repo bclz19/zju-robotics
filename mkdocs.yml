@@ -64,19 +64,34 @@ theme:
   - search.highlight
   - search.share
   - search.suggest
-  palette: 
-
+  palette:
     # Palette toggle for light mode
-    - scheme: slate
-      toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
     - scheme: default
+      primary: cyan
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+        # Palette toggle for dark mode
+    - scheme: slate
+      primary: orange
+      accent: orange
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  # palette: 
+
+  #   # Palette toggle for light mode
+  #   - scheme: slate
+  #     toggle:
+  #       icon: material/brightness-7 
+  #       name: Switch to dark mode
+
+  #   # Palette toggle for dark mode
+  #   - scheme: default
+  #     toggle:
+  #       icon: material/brightness-4
+  #       name: Switch to light mode
 markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
@@ -142,6 +157,7 @@ nav:
       - ROS与机器人仿真软件: select_course/short_term/ros.md
       - 专业认知: select_course/short_term/Major_Cognition.md
       - 机器人基础实践: select_course/short_term/Basic_Practice_Of_Robot.md
+      
   - 疯狂的机器人:
     - 疯狂的机器人: "crazy_robotics.md"
   - 学长说:
