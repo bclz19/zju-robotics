@@ -4,4 +4,4 @@
 
 * [《所以机器人工程到底是什么》](whats_robotics.md) <p align="right"> ——22级 崔哲珺 学长 </p>
 * [《科研方向/所需基础》](research_guidance.md)      <p align="right"> ——19级 陈泳岐 学长 </p>
-* 
+* [《数学/计算机（等待命名）](math&computer_guidance.md)      <p align="right"> ——22级 高天健 学姐 </p>
