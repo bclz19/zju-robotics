@@ -163,8 +163,8 @@ nav:
   - 学长说:
     - senior_speech/index.md
     - 所以机器人工程到底是什么: senior_speech/whats_robotics.md
-    - 科研方向/所需基础: research_guidance.md
-    - 数学/计算机: math&computer_guidance.md
+    - 科研方向/所需基础: senior_speech/research_guidance.md
+    - 数学/计算机（等待命名）: senior_speech/math&computer_guidance.md
   - 畅所欲言:
     - 畅所欲言: "chats.md"
   - 联系我们: connect_us.md
