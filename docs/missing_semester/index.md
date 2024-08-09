@@ -4,4 +4,6 @@
 
 在这个板块我们试图去按照我们的理解去完成这个目标: 弥补大学教学中消失的一个学期
 
+
+* [《基于numpy的卷积神经网络手写数字识别》](基于numpy的卷积神经网络手写数字识别.pdf) <p align="right"> ——22 CZJ </p>
 * [《快速上手Latex》](Latex.md) <p align="right"> ——23 bclz19 </p>
