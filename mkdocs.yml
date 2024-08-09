@@ -156,7 +156,7 @@ nav:
       - 人工智能与机器学习: select_course/major_mandatory/Artificial_Intelligence_And_Machine_Learning/index.md
 
     - 短学期课程:
-      - select_course/short_term/short_term_index.md
+      - select_course/short_term/index.md
       - ROS与机器人仿真软件: select_course/short_term/ros/index.md
       - 专业认知: select_course/short_term/Major_Cognition/index.md
       - 机器人基础实践: select_course/short_term/Basic_Practice_Of_Robot/index.md
