@@ -122,43 +122,43 @@ nav:
       - 测试版面: select_course/math_phy/text.md
 
     - 思政课: 
-      - select_course/political/political_index.md
-      - 形势与政策 Ⅰ: select_course/political/situation_policy1.md
-      - 思想道德与法治: select_course/political/morality_law.md
-      - 中国近现代史纲要: select_course/political/modern_history.md
-      - 马克思主义基本原理: select_course/political/marxism_basic.md
-      - 毛泽东思想和中国特色社会主义理论体系概论: select_course/political/mao_thought.md
-      - 习近平新时代中国特色社会主义思想概论: select_course/political/xi_thought.md
-      - 形势与政策 Ⅱ: select_course/political/situation_policy2.md
-      - 军事理论: select_course/political/military_theory.md
+      - select_course/political/index.md
+      - 形势与政策 Ⅰ: select_course/political/situation_policy1/index.md
+      - 思想道德与法治: select_course/political/morality_law/index.md
+      - 中国近现代史纲要: select_course/political/modern_history/index.md
+      - 马克思主义基本原理: select_course/political/marxism_basic/index.md
+      - 毛泽东思想和中国特色社会主义理论体系概论: select_course/political/mao_thought/index.md
+      - 习近平新时代中国特色社会主义思想概论: select_course/political/xi_thought/index.md
+      - 形势与政策 Ⅱ: select_course/political/situation_policy2/index.md
+      - 军事理论: select_course/political/military_theory/index.md
 
     - 专业基础课: 
-      - select_course/major_basic/major_basic_index.md
-      - 工程图学: select_course/major_basic/engineering_drawing/.md
-      - 常微分方程: select_course/major_basic/ode.md
-      - 复变函数与积分变换: select_course/major_basic/Complex_Variable_Functions&Integral_Transformation.md
-      - 理论力学（乙）: select_course/major_basic/marxism_basic.md
-      - 电路与模拟电子技术: select_course/major_basic/Electric_Circuit_and_Analog_Electronic_Technology.md
-      - 电路与模拟电子技术实验: select_course/major_basic/Electric_Circuit_and_Analog_Electronic_Technology_Experience.md
-      - 概率论与数理统计: select_course/major_basic/Probability_and_Statistics.md
+      - select_course/major_basic/major_basic_index/index.md
+      - 工程图学: select_course/major_basic/engineering_drawing/index.md
+      - 常微分方程: select_course/major_basic/ode/index.md
+      - 复变函数与积分变换: select_course/major_basic/Complex_Variable_Functions&Integral_Transformation/index.md
+      - 理论力学（乙）: select_course/major_basic/marxism_basic/index.md
+      - 电路与模拟电子技术: select_course/major_basic/Electric_Circuit_and_Analog_Electronic_Technology/index.md
+      - 电路与模拟电子技术实验: select_course/major_basic/Electric_Circuit_and_Analog_Electronic_Technology_Experience/index.md
+      - 概率论与数理统计: select_course/major_basic/Probability_and_Statistics/index.md
     
     - 专业必修课: 
-      - select_course/major_mandatory/major_mandatory_index.md
-      - 机器人与人工智能导论: select_course/major_mandatory/Introduction_To_Robotics_And_Artificial_Intelligence.md
-      - 嵌入式系统: select_course/major_mandatory/Embedded_System.md
-      - 自动控制理论（乙）: select_course/major_mandatory/Principle_Of_Automatic_Control.md
-      - 机械设计基础（甲）: select_course/major_mandatory/Fundamentals_of_Mechanical_Design.md
-      - 机器人学Ⅰ: select_course/major_mandatory/robotics1.md
-      - 机器人学Ⅱ: select_course/major_mandatory/robotics2.md
-      - 机器人传感技术: select_course/major_mandatory/Robot_Sensingtechnology.md
-      - 机器视觉: select_course/major_mandatory/Machine_Vision.md
-      - 人工智能与机器学习: select_course/major_mandatory/Artificial_Intelligence_And_Machine_Learning.md
+      - select_course/major_mandatory/major_mandatory_index/index.md
+      - 机器人与人工智能导论: select_course/major_mandatory/Introduction_To_Robotics_And_Artificial_Intelligence/index.md
+      - 嵌入式系统: select_course/major_mandatory/Embedded_System/index.md
+      - 自动控制理论（乙）: select_course/major_mandatory/Principle_Of_Automatic_Control/index.md
+      - 机械设计基础（甲）: select_course/major_mandatory/Fundamentals_of_Mechanical_Design/index.md
+      - 机器人学Ⅰ: select_course/major_mandatory/robotics1/index.md
+      - 机器人学Ⅱ: select_course/major_mandatory/robotics2/index.md
+      - 机器人传感技术: select_course/major_mandatory/Robot_Sensingtechnology/index.md
+      - 机器视觉: select_course/major_mandatory/Machine_Vision/index.md
+      - 人工智能与机器学习: select_course/major_mandatory/Artificial_Intelligence_And_Machine_Learning/index.md
 
     - 短学期课程:
       - select_course/short_term/short_term_index.md
-      - ROS与机器人仿真软件: select_course/short_term/ros.md
-      - 专业认知: select_course/short_term/Major_Cognition.md
-      - 机器人基础实践: select_course/short_term/Basic_Practice_Of_Robot.md
+      - ROS与机器人仿真软件: select_course/short_term/ros/index.md
+      - 专业认知: select_course/short_term/Major_Cognition/index.md
+      - 机器人基础实践: select_course/short_term/Basic_Practice_Of_Robot/index.md
       
   - 疯狂的机器人:
     - 疯狂的机器人: "crazy_robotics.md"
@@ -169,5 +169,7 @@ nav:
     - 数学/计算机（等待命名）: senior_speech/math&computer_guidance.md
   - 畅所欲言:
     - 畅所欲言: "chats.md"
+  - 消失的课程:
+    - 实用技能: missing_semester/skills.md
   - 联系我们: connect_us.md
   - 卷尾语: end_passage.md
