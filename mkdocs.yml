@@ -47,6 +47,7 @@ repo_url: https://github.com/bclz19/zju-robotics/
 
 theme:
   name: material
+  # custom_dir: overrides
   language: zh
   logo: img/favicon.ico
   features:
@@ -133,7 +134,7 @@ nav:
       - 军事理论: select_course/political/military_theory/index.md
 
     - 专业基础课: 
-      - select_course/major_basic/major_basic_index/index.md
+      - select_course/major_basic/index.md
       - 工程图学: select_course/major_basic/engineering_drawing/index.md
       - 常微分方程: select_course/major_basic/ode/index.md
       - 复变函数与积分变换: select_course/major_basic/Complex_Variable_Functions&Integral_Transformation/index.md
@@ -143,7 +144,7 @@ nav:
       - 概率论与数理统计: select_course/major_basic/Probability_and_Statistics/index.md
     
     - 专业必修课: 
-      - select_course/major_mandatory/major_mandatory_index/index.md
+      - select_course/major_mandatory/index.md
       - 机器人与人工智能导论: select_course/major_mandatory/Introduction_To_Robotics_And_Artificial_Intelligence/index.md
       - 嵌入式系统: select_course/major_mandatory/Embedded_System/index.md
       - 自动控制理论（乙）: select_course/major_mandatory/Principle_Of_Automatic_Control/index.md
