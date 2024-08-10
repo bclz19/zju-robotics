@@ -120,6 +120,7 @@ nav:
       - 大学物理 （甲）Ⅰ: select_course/math_phy/physics1/index.md
       - 大学物理实验: select_course/math_phy/physics_experiment/index.md
       - 大学物理 （甲）Ⅱ: select_course/math_phy/physics2/index.md
+      - 程序设计基础与实验: select_course/math_phy/C_language/index.md
       - 测试版面: select_course/math_phy/text.md
 
     - 思政课: 
