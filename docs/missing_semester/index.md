@@ -6,4 +6,6 @@
 
 
 * [《基于numpy的卷积神经网络手写数字识别》](基于numpy的卷积神经网络手写数字识别.pdf) <p align="right"> ——22 CZJ </p>
-* [《快速上手LaTex》](LaTex.md) <p align="right"> ——23 bclz19 </p>
+<!-- * [《快速上手LaTex》](LaTex.md) <p align="right"> ——23 bclz19 </p> -->
+
+* [《如何进行信息搜索》](search_info.pdf) <p align="right"> ——23 博格达 </p>

@@ -111,7 +111,7 @@ nav:
   - 选课指导:
     - select_course/index.md
     - 培养方案: select_course/Academic_Program/Academic_Program.md
-    - 通识课程: select_course/General/general_index.md
+    # - 通识课程: select_course/General/general_index.md
     - 数理基础课: 
       - select_course/math_phy/index.md
       - 线性代数 (甲): select_course/math_phy/linear_algebra/index.md
@@ -139,9 +139,9 @@ nav:
       - 工程图学: select_course/major_basic/engineering_drawing/index.md
       - 常微分方程: select_course/major_basic/ode/index.md
       - 复变函数与积分变换: select_course/major_basic/Complex_Variable_Functions&Integral_Transformation/index.md
-      - 理论力学（乙）: select_course/major_basic/marxism_basic/index.md
+      - 理论力学（乙）: select_course/major_basic/Theoretical_Mechanics/index.md
       - 电路与模拟电子技术: select_course/major_basic/Electric_Circuit_and_Analog_Electronic_Technology/index.md
-      - 电路与模拟电子技术实验: select_course/major_basic/Electric_Circuit_and_Analog_Electronic_Technology_Experience/index.md
+      - 电路与模拟电子技术实验: select_course/major_basic/Electric_Circuit_and_Analog_Electronic_Technology_Experiment/index.md
       - 概率论与数理统计: select_course/major_basic/Probability_and_Statistics/index.md
     
     - 专业必修课: 
