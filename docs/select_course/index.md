@@ -2,7 +2,7 @@
 
 ## 关于选课的基本知识
 
-[浙江大学本科新生指引-选课](https://zjuers.com/welcome/course_sys/enroll/)
+[浙江大学本科新生指引-选课](https://zjuers.com/welcome/course_sys/rules/)
 
 ## 选课通知
 
