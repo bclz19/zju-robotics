@@ -162,8 +162,9 @@ nav:
       - 专业认知: select_course/short_term/Major_Cognition/index.md
       - 机器人基础实践: select_course/short_term/Basic_Practice_Of_Robot/index.md
       
-  # - 疯狂的机器人:
-    - 疯狂的机器人: "crazy_robotics.md"
+    # - 疯狂的机器人:
+  
+    #   - 疯狂的机器人: "crazy_robotics.md"
   - 学长说:
     - senior_speech/index.md
     - 所以机器人工程到底是什么: senior_speech/whats_robotics.md
