@@ -47,7 +47,7 @@ repo_url: https://github.com/bclz19/zju-robotics/
 
 theme:
   name: material
-  # custom_dir: overrides
+  custom_dir: overrides
   language: zh
   logo: img/favicon.ico
   features:
@@ -171,7 +171,7 @@ nav:
     - 科研方向/所需基础: senior_speech/research_guidance.md
     - 数学/计算机（等待命名）: senior_speech/math&computer_guidance.md
   - 畅所欲言:
-    - 畅所欲言: "chats.md"
+    - 畅所欲言: "comment.md"
   - 消失的学期:
     - 实用技能: missing_semester/index.md
   - 联系我们: connect_us.md
