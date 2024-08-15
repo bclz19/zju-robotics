@@ -24,6 +24,35 @@
   <h2>致谢</h2>
   <p>在搭建机器人之家网站时，我们参考了<a href="https://zju-turing.github.io/TuringCourses/">图灵班学习指南</a>、<a href="http://csdiy.wiki">csdiy</a>以及本专业21级学长minifull参与撰写与维护的<a href="https://zjuers.com/welcome/">浙江大学本科新生指引</a>. 特此鸣谢.</p>
   <p>在网站搭建过程中，我们向许多学长学姐寻求了帮助，原谅这里不能一一列举.</p>
+
+
+<font color="#B9B9B9">
+  <p style="text-align: center; ">
+      <span>本站已经运行</span>
+      <span id='box1'></span>
+</p>
+  <div id="box1"></div>
+  <script>
+    function timingTime(){
+      let start = '2024-8-14 00:00:00'
+      let startTime = new Date(start).getTime()
+      let currentTime = new Date().getTime()
+      let difference = currentTime - startTime
+      let m =  Math.floor(difference / (1000))
+      let mm = m % 60  // 秒
+      let f = Math.floor(m / 60)
+      let ff = f % 60 // 分钟
+      let s = Math.floor(f/ 60) // 小时
+      let ss = s % 24
+      let day = Math.floor(s  / 24 ) // 天数
+      return day + "天" + ss + "时" + ff + "分" + mm +'秒'
+    }
+    setInterval(()=>{
+      document.getElementById('box1').innerHTML = timingTime()
+    },1000)
+  </script>
+  </font>
+
 </body>
 </html>
 
