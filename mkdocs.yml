@@ -118,6 +118,12 @@ nav:
     - 一点严肃的事情: seriousthing.md
   # - 所以什么是机器人工程:
   #   - 所以什么是机器人工程: about_robotics.md
+  - 新生迎新安排:
+    - welcome/Welcome_Arrangement.md
+    - 日程安排: welcome/timetable.md
+    - 食堂供应安排: welcome/紫金港校区迎新期间食堂供应安排.pdf
+    - 家长会安排: welcome/parents'meeting.md
+
   - 选课指导:
     - select_course/index.md
     - 培养方案: select_course/Academic_Program/Academic_Program.md
