@@ -23,5 +23,5 @@ C 语言程序设计与其说是一门课，不如是说带你理解计算机运
 
 这便是我对三门课的大概认识，在后续的文章中我会成几篇带大家了解一下各个课程的中心思想。
 
-[线性代数概论](introduction_to_LinearAlgebra.html)
+[线性代数概论](introduction_to_LinearAlgebra.md)
 
