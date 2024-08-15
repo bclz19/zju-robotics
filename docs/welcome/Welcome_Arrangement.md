@@ -22,3 +22,5 @@
 
 **[家长会通知](parents'meeting.md)**
 
+**[开学典礼通知](opening_ceremony.jpg)**
+
