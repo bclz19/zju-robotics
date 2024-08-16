@@ -51,6 +51,7 @@ theme:
   language: zh
   logo: img/favicon.ico
   features:
+  - announce.dismiss
   # - content.tabs.link
   - navigation.instant
   - navigation.tabs
