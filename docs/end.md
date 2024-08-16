@@ -7,3 +7,6 @@ by  Han-Squirrel
 未来的你们，定将灿若星辰，不仅在中国的大地上熠熠生辉，更将光芒洒向世界的每一个角落。但请记住，机器人工程不仅是冰冷的金属与电路的交织，更是人类智慧与梦想的结晶。在你们的手中，希望机器人成为推动社会进步、改善人类生活的强大力量。
 
 最后，愿机器人之家（zju-robotics）成为你们永远的精神家园，无论身在何方，都能从中汲取力量与灵感，继续前行在探索未知、求是创新的征途上。再次祝愿每一位同学前程似锦，未来可期！
+
+<span id="busuanzi_container_page_pv">本文总阅读量<span id="busuanzi_value_page_pv"></span>次</span>
+<span id="busuanzi_container_site_uv">本站访客数<span id="busuanzi_value_site_uv"></span>人次</span>

@@ -28,7 +28,7 @@
 
 
 <font color="#B9B9B9">
-  <p style="text-align: center; ">
+  <p style="text-align: left; ">
       <span>本站已经运行</span>
       <span id='box1'></span>
 </p>
@@ -53,6 +53,10 @@
     },1000)
   </script>
   </font>
+
+<span id="busuanzi_container_page_pv">本文总阅读量<span id="busuanzi_value_page_pv"></span>次</span>
+<span id="busuanzi_container_site_uv">本站访客数<span id="busuanzi_value_site_uv"></span>人次</span>
+
 
 </body>
 </html>
