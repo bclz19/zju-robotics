@@ -31,3 +31,5 @@
 
 **[开学典礼通知](opening_ceremony.jpg)**
 
+**[Q&A](Q&A.md)**
+
