@@ -185,6 +185,9 @@ nav:
     # - 疯狂的机器人:
   
     #   - 疯狂的机器人: "crazy_robotics.md"
+
+  # - introduce: 1.pdf
+
   - 学长说:
     - senior_speech/index.md
     - 所以机器人工程到底是什么: senior_speech/whats_robotics.md
